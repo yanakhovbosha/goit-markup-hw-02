@@ -1,0 +1,226 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+    color: #2e2f42;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, ol{
+    list-style-type: none;
+}
+
+button{
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
+}
+
+/* #region header */
+.header {}
+
+.nav-header {}
+
+.logo-header {
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #2e2f42;
+}
+
+.logo-style {
+    color: #4d5ae5;
+}
+
+.header-nav-list {}
+
+.nav-header-item {}
+
+.item-nav-link {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.item-nav-link:hover,
+.item-nav-link:focus{
+    color: #404bbf;
+}
+
+.header-addr {
+    font-style: normal;
+}
+
+.header-addr-list {}
+
+.header-addr-item {}
+
+.header-addr-link {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.header-addr-link:hover, 
+.header-addr-link:focus{
+    color: #404bbf;
+}
+/* #endregion header */
+
+/* #region hero */
+.hero {
+    background: #2e2f42;
+}
+
+.hero-title {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+
+.hero-btn {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        background-color: #4d5ae5;
+}
+
+.hero-btn:hover,
+.hero-btn:focus{
+    background-color: #404bbf;
+}
+/* #endregion hero */
+
+/* #region section 1 */
+.section-one {}
+
+.section-one-title {}
+
+.section-one-list {}
+
+.section-one-list-item {}
+
+.section-one-item-title {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.section-one-item-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/* #endregion section 1 */
+
+/* #region section 2 */
+.section-two {
+    background-color: #f4f4fd;
+}
+
+.section-two-title {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.section-two-list {}
+
+.section-two-list-item {}
+
+.section-two-item-title {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.section-two-item-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/* #endregion section 2 */
+
+/* #region section 3 */
+.section-three {}
+
+.section-three-title {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.section-three-list {}
+
+.section-three-list-item {}
+
+.section-three-item-title {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.section-three-item-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/* #endregion section 3 */
+
+/* #region footer */
+.footer {
+    background-color: #2e2f42;
+}
+
+.logo-footer {
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #f4f4fd;
+}
+
+.logo-style {
+    color: #4d5ae5;
+}
+
+.footer-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
+/* #endregion footer */
