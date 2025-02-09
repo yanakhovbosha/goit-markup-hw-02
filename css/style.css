@@ -181,7 +181,13 @@ button{
 
 .section-three-list {}
 
-.section-three-list-item {}
+.section-three-list-item {
+        background: #fff;
+}
+
+.section-three-list-item > img{
+
+}
 
 .section-three-item-title {
         font-weight: 500;
