@@ -147,7 +147,9 @@ button{
 
 .section-two-list {}
 
-.section-two-list-item {}
+.section-two-list-item {
+        background-color: #FFFFFF;
+}
 
 .section-two-item-title {
         font-weight: 500;
@@ -189,7 +191,7 @@ button{
 
 }
 
-.section-three-item-title {
+.section-three-item > h3 {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -197,7 +199,7 @@ button{
         color: #2e2f42;
 }
 
-.section-three-item-text {
+.section-three-item > p {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
