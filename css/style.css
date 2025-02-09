@@ -1,7 +1,7 @@
 body{
     font-family: "Roboto", sans-serif;
     background-color: #fff;
-    color: #2e2f42;
+    color: #434455;
 }
 
 a {
@@ -26,14 +26,14 @@ button{
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2e2f42;
+        color: #4d5ae5;
 }
 
 .logo-style {
-    color: #4d5ae5;
+        color: #2e2f42;
 }
 
 .header-nav-list {}
@@ -138,8 +138,9 @@ button{
 .section-two-title {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
+        text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
 }
@@ -173,6 +174,8 @@ button{
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;
 }
 
@@ -206,14 +209,14 @@ button{
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #f4f4fd;
+        color: #4d5ae5;
 }
 
-.logo-style {
-    color: #4d5ae5;
+.logo-style-footer {
+    color: #f4f4fd;
 }
 
 .footer-text {
