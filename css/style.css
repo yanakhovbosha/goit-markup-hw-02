@@ -185,11 +185,7 @@ button{
 
 .section-three-list-item{}
 
-.section-three-list > img{
-
-}
-
-.section-three-list > h3 {
+.section-three-list .item-title {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -197,7 +193,7 @@ button{
         color: #2e2f42;
 }
 
-.section-three-list > p {
+.section-three-list .item-text {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
